@@ -42,9 +42,9 @@ for( i = 0; i < arr.length; i++) {
          newArr.split(0,maxLenght)
      }
  }
- console.log(result)
 
 }
+console.log(result)
 }
 filterString(arr,3)
 
